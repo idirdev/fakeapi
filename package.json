@@ -1,0 +1,22 @@
+{
+  "name": "@idirdev/fakeapi",
+  "version": "1.0.0",
+  "description": "Generate fake REST API data with realistic content",
+  "main": "src/index.js",
+  "author": "idirdev",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idirdev/fakeapi.git"
+  },
+  "keywords": [],
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "scripts": {
+    "test": "node --test tests/"
+  },
+  "bin": {
+    "fakeapi": "bin/cli.js"
+  }
+}
