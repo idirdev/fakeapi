@@ -18,5 +18,9 @@
   },
   "bin": {
     "fakeapi": "bin/cli.js"
+  },
+  "homepage": "https://github.com/idirdev/fakeapi",
+  "bugs": {
+    "url": "https://github.com/idirdev/fakeapi/issues"
   }
 }
